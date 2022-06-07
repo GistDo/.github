@@ -1,5 +1,9 @@
 ## Hi there, Welcome to GistDo 👋
 
+### Reduce Your Development Time
+
+A free and open source code snippets management tool for developers.
+
 <!--
 
 **Here are some ideas to get you started:**
